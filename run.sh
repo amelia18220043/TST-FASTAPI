@@ -1,0 +1,1 @@
+uvicorn tst:app --reload
